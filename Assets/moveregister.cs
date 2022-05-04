@@ -17,12 +17,12 @@ public class moveregister : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        var actif = gameObject.GetComponent<Jeanmove>;
+/*        var actif = gameObject.GetComponent<Jeanmove>;
         if (activated == true)
         {
             x = gameObject.transform.position;
             liste.Add(x);
 
-        }
+        }*/
     }
 }
